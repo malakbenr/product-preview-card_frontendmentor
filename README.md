@@ -12,7 +12,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-![](./screenshot.png)
+![](screenshot.png)
 
 ### Links
 
